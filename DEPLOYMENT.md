@@ -1,6 +1,6 @@
-# Deployment design — ingtrader21-spec/openrerefine-
+# Deployment design — appolon1908/openrerefine-
 
-This repository is classified as **data-tooling** and remains independently deployable.
+This repository is classified as **Data/platform** and remains independently deployable.
 
 ## Canonical integration boundary
 
